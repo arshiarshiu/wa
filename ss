@@ -1,7 +1,7 @@
 hhhddd33sudo apt install npm 
  
 npm install -g yarn  ddd
- 
+ fff
 apt install cargo 
  
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
