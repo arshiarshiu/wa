@@ -1,4 +1,4 @@
-cchhhddd33sudo apt install npm 
+ggfcchhhddd33sudo apt install npm 
  
 npm install -g yarn  ddd
  fffee
