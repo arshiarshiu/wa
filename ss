@@ -1,6 +1,6 @@
 ggfcchhhddd33sudo apt install npm 
  
-npm install -g yarn  ddd
+npm install -g yarn  dggdd
  fffee
 apt install cargo 
  
