@@ -4,7 +4,7 @@ npm install -g yarn  dggdd
  fffee
 apt install cargo 
  
-curl -o- https://raw.githubusercontejjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
+curl -o- https://raw.githubudddsercontejjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sss
 source ~/.bashrc jjj
  
