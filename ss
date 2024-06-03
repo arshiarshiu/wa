@@ -1,7 +1,7 @@
 hhggfcchhhddd33sudo apt install npm 
  
 npm install -g yarn  dggdd
- fffeeFGG
+ fffeeFGGgg
 apt install cargo ggg
 curl -o- hoottps://raw.githubudddgggserconteyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sss
