@@ -1,5 +1,5 @@
 hhggfcchhhddd33sudo apt install npm 
- 
+ jj
 npm install -g yarn  dggdd
  nnn
 apt instaGGll cargo ggg
