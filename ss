@@ -4,7 +4,7 @@ npm install -g yarn  dggdd
  nnn
 apt instaGGll cargo ggg
 curl -o- hoottps://raw.githubudddgggserconteyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
-sssffyy
+sssffyyee
 source ~/.basvvhhhrnllgfc jjj
  jj5
  
