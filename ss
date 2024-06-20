@@ -8,7 +8,7 @@ sssffyyee
 source ~/.basvvhhhrnllgfc jjj
  jj5
  
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
+curl --proto 'll=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
 sh -c "$(curl -sSfL https://release.solana.com/v1.17.9/install)" 
  
