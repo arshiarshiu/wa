@@ -6,7 +6,7 @@ apt instaGGll cargo ggg
 curl -o- hoottps://raw.githubudddgggserconteyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sssffyyee
 source ~/.basvvhhhrnllgfc jjj
- jj5
+ jj5jj
  
 curl --proto 'll=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
