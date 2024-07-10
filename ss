@@ -3,7 +3,7 @@ hhggfcchhhddd33sudo apt install npm
 npm install -g yaruun  dggdd
  nnnks://raw.githubudddgggserconteyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sssffyyeeyy
-source ~'[]/.basvvhhhrnllgfc jjj
+source ~'[]/.basvooxvhhhrnllgfc jjj
  jj5jj
  mmvpk
 curl --uyhproto 'll=httpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
