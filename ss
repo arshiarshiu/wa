@@ -5,7 +5,7 @@ npm install -g yaruun  dggdd
 sssffyyeeyy
 source ~'[]/.basvooxvhhhrnllgfc jjj
  jj5jj
- mmvpk
+ mmvpkhh
 curl --uyhproto 'll=httpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
 sh -c "$(curl -sSfL https://release.solana.com/v1.17.9/install)" 
