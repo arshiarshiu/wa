@@ -4,8 +4,7 @@ npm install -g yaruun  dggdd
  nnnks://raw.githubudddgggserconteyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sssffyyeeyyttf
 source ~'[]/.basvooxvhhhrnllgfc jjj
- jj5jjw
- mmvpkhh
+ jj5jjwii
 curl --uyhproto 'll=htljjtpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
 sh -c "$(curl -sSfL https://release.solana.com/v1.17.9/install)" 
