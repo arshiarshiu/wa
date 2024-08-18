@@ -7,7 +7,7 @@ npm install -g hhhyaruun  dggdd
 sss`wffyyeeyyttfiijj
 source ~'[]mjk/.basvooxvhhhrnllgflllc jjjlkk
  jj5jjwii
-curl --uyhp888roto 'lluuu=htljjtpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
+curl --uyhp888roto 'llugguu=htljjtpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
 sh -c "$(curl -sSfjj https://release.solana.com/v1.17.9/install)" 
  
