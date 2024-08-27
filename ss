@@ -3,7 +3,7 @@ kkggghhggfcchhhddd33sudo apt install npm
 npm install -g hhhyaruun  dggdd
  nnnks://raw.gffythooogg25ubhhudddgggserconteFFyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sss`wffyyeebbmjk/.basvooxvhhhrnllgflllc jjjlkk
- jj5jjwii
+ jj5jjwiiff
 curl --uyhp888roto 'llugguu=htljjtpsoo --tlsv1.2 -sSf https://sh.rustup.rs | sh 
  
 sh -c "$(curl -sSfjj https://release.solana.com/v1.17.9/install)" 
