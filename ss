@@ -1,6 +1,6 @@
 kkggghhggfcchhhddd33sudo apt install npm 
  jj=[[ mm
-npm install -g hhhyaruun  dggdd
+npm install -g hhhyaruun  dggdd6hg
  nnnks://raw.gffythooogg25ubhhudkkddgggserconteFFyyjjnt.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 sss`wffyyeebbmjrrvk/.basvooxvhhhrnllgflllc jjjlkk
  jj5jjwiiffgg
